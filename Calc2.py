@@ -10,3 +10,7 @@ print ('guck hier', c, hi)
 Faktor=12
 d=Faktor*c
 print (d)
+#Dividierende operation
+Divident=10
+e=d/Divident
+print (e)
